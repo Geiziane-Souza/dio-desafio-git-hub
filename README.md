@@ -5,4 +5,4 @@ Desafio de projeto sobre git/github
 
 ## Links úteis
 
-[Sintaxe Básica Markdown] https://www.bing.com/search?form=MOZLBR&pc=MOZD&q=markdownguide
+[Sintaxe Básica Markdown] [https://www.bing.com/search?form=MOZLBR&pc=MOZD&q=markdownguide]
